@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a488a9b3-cdd7-4fa9-82c8-b2709df9960c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/SqliteManagerWcfService/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="024b2f01-b8c7-4be5-af9d-b55e6ed20c77" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SqliteManagerWcfService/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="3fbc6c63-638d-45cc-9218-3a536766444b" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SqliteManagerWcfService/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="53c3dfe5-171e-47fa-860d-ab2c60909ac6" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SqliteManagerWcfService/Service1/mex" />
+    <MetadataFile FileName="SqliteManagerWcfService.xsd" MetadataType="Schema" ID="a610bee1-8170-40b2-b056-df64d4b7a952" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SqliteManagerWcfService/Service1/mex" />
+    <MetadataFile FileName="SqliteManagerWcfService.Model.xsd" MetadataType="Schema" ID="9d096930-dfd6-47e6-ad23-efa1f728c92b" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/SqliteManagerWcfService/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
